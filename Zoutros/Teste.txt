@@ -1,0 +1,7 @@
+File - Criar Arquivos
+File Reader - Criar arquivos e ler conteudo do mesmos
+Buffered Reader - Otimização quanto a File Reader - Buffer de memória
+File Writer - Escrita de Arquivos
+Buffered Writer - Otimizacao da file writer
+
+Copy Path - copiar diretório
